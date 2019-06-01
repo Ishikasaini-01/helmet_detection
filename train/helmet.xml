@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>helmet.jpg</filename>
+	<path>C:\Users\Ishika\Desktop\image\helmet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>243</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>7</ymin>
+			<xmax>218</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
